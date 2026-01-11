@@ -158,6 +158,6 @@ def main():
             print("=" * 40)
             break
 
-# Just best practice to ensure the 
+
 if __name__ == "__main__":
     main()
